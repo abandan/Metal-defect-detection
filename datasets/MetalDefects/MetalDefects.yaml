@@ -1,0 +1,17 @@
+path: "C:/Users/PC/Desktop/\u57FA\u4E8EYOLOv8\u548CYOLOv5\u7684\u5DE5\u4E1A\u91D1\u5C5E\
+  \u8868\u9762\u7F3A\u9677\u68C0\u6D4B\u7CFB\u7EDF/MetalDefects/datasets/MetalDefects"
+train: train/images/
+val: valid/images/
+test: test/images/
+nc: 10
+names:
+  0: crease
+  1: crescent_gap
+  2: inclusion
+  3: oil_spot
+  4: punching_hole
+  5: rolled_pit
+  6: silk_spot
+  7: waist_folding
+  8: water_spot
+  9: welding_line
